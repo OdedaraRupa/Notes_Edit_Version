@@ -1,0 +1,13 @@
+.red {
+    background-color: green;
+    font-weight: bold;
+}
+.notecard{
+    border: 1px solid #000;
+    background-color: #eee;
+    padding: 15px;
+}
+
+.bg-green{
+    background-color: green;
+}
